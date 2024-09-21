@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- TextureAtlas by ETdoFresh -->
+
 <TextureAtlas imagePath="11348.png" width="208" height="285">
     <sprite n="11348-A.png" x="0" y="0" w="8" h="8"/>
     <sprite n="11348-B.png" x="8" y="0" w="8" h="8"/>
